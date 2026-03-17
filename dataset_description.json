@@ -1,0 +1,17 @@
+{
+    "Name": "ASAP4 data",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.3.0",
+    "Description": "Raw data for \"A positively tuned voltage indicator for extended electrical recordings in the brain\", Nature Methods 2023, https://doi.org/10.1038/s41592-023-01913-z",
+    "DatasetType": "raw",
+    "Authors": [],
+    "License": "CC-BY-4.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.9.1.dev27+gf0fb7253c",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
+}
