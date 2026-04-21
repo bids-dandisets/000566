@@ -4,7 +4,9 @@
     "HEDVersion": "8.3.0",
     "Description": "Raw data for \"A positively tuned voltage indicator for extended electrical recordings in the brain\", Nature Methods 2023, https://doi.org/10.1038/s41592-023-01913-z",
     "DatasetType": "raw",
-    "Authors": [],
+    "Authors": [
+        "Lin, Michael"
+    ],
     "License": "CC-BY-4.0",
     "GeneratedBy": [
         {
